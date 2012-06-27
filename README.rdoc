@@ -1,0 +1,2 @@
+CanCan Twitter Bootstrap Devise App
+from tutorial on github
